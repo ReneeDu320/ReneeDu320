@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 👋 Hi, I'm Renee Du
-- 🌱 I got my bachelor's degree in Finance. Currently I'm pursuing my master's degree in Information Science (expected 2023 May).
+- 🌱 Major in Information Science and Finance (expected 2023 May).
 - 🎀 I'm interested in Machine Learning and FinTech.
 - 👯 Internship experience with Data Science, Product Management, Risk Analysis, AML Compliance and IT Consulting.
 
