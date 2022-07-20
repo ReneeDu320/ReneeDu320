@@ -1,4 +1,4 @@
-### Hi there 👋
+### 
 
 <!--
 **ReneeDu320/ReneeDu320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👋 Hi, I'm Renee Du
+- 🌱 I got my bachelor's degree in Finance. Currently I'm pursuing my master's degree in Information Science (expected 2023 May).
+- 🎀 I'm interested in Machine Learning and FinTech.
+- 👯 Internship experience with Data Science, Product Management, Risk Analysis, AML Compliance and IT Consulting.
+
+
