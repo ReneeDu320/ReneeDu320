@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - 👋 Hi, I'm Renee Du
 - 🌱 Major in Information Science and Finance (expected 2023 May).
 - 🎀 I'm interested in Machine Learning and FinTech.
-- 👯 Internship experience with Data Science, Product Management, Risk Analysis, AML Compliance and IT Consulting.
+- 👯 Internship experience with Data Science, Product Management, Risk Analysis, AML Compliance, M&A, and IT Consulting.
 
 
