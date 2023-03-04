@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 👋 Hi, I'm Renee Du
-- 🌱 MS in Information Science (expected 2023 May), BEcon in Finance.
+- 🌱 MS in Information Science, BEcon in Finance.
 - 🎀 I'm interested in Machine Learning and FinTech.
 - 👯 Internship experience with Data Science, Product Management, Risk Analysis, AML Compliance, M&A, and IT Consulting.
 
