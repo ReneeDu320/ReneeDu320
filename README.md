@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 - 👋 Hi, I'm Renee Du
 - 🌱 MS in Information Science, BEcon in Finance.
 - 🎀 I'm interested in Machine Learning and FinTech.
